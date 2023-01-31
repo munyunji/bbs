@@ -88,7 +88,7 @@
 	<div id="bbs">
 	<form method="post" encType="multipart/form-data">
 		<table summary="게시판 글쓰기">
-			<caption>게시판 글쓰기!!!!!!!!!!</caption>
+			<caption>게시판 글쓰기</caption>
 			<tbody>
 				<tr>
 					<th style="width: 15%" class="title">제목:</th>
